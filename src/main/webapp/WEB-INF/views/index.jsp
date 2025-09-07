@@ -10,5 +10,6 @@
     <h3>Version: 3.2.5</h3>
     <h3>Step: LGCNS AM Inspire 1기</h3>
     <h3>Jtpark sTUDY</h3>
+    <h3>Version 2.0</h3>
 </body>
 </html>
